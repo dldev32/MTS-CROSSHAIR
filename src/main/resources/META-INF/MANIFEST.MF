@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+FMLCorePlugin: muwwy.Hooks
+FMLCorePluginContainsFMLMod: true
+Created-By: 1.12.2 (Oracle Corporation)
